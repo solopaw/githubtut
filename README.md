@@ -1,1 +1,2 @@
 # githubtut
+THIS IS A TUTORIAL ON GITHUB
